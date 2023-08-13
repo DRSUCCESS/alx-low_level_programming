@@ -1,11 +1,7 @@
 #include <stdio.h>
-
 /**
- * main - Entry point
- * 
- * Description: 'size of various types on the computer'
- * 
- * Return: Always 0 (Success)
+ * main - the main function
+ * Return: Always 0 on Success
  */
 
 int main(void)
