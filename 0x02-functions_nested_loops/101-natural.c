@@ -1,5 +1,12 @@
 #include <stdio.h>
 
+/**
+ * main - function to sum multiples of 3 or 5 in number below 1024
+ *
+ * Return: 0
+ *
+ */
+
 int main(void)
 {
 	int sum = 0;
